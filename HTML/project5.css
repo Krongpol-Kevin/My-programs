@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+html{
+    background-color: #eceff1;
+    margin: 0px;
+    padding: 0px;
+}
+.topnav{
+    text-align: right;
+    background-color: #263238;
+}
+.nav{
+    background-color: #607d8b;
+    padding: 10px;
+    color: #03a9f4;
+    
+
+}
+li{
+    display: inline;
+}
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+dd, dt{
+    display: inline-block;
+}
+.wrapper{
+    margin: 0 auto;
+    width: 80%;
+}
+main, aside{
+    background-color: white;
+}
+section{
+    border: solid;
+    margin-bottom: 10px;
+}
+section h2{
+    margin-top: 0;
+    background-image: url("project2_images/background\ pattern.jpg");
+    padding: 10px;
+    color: #eceff1;
+}
+.button-holder{
+    background-color: #607d8b;
+}
+.button{
+    padding: 10px;
+    color: white;
+    background-color: #ff3d00;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+#heading
+{
+    background-image: url("project2_images/background\ pattern.jpg");
+    padding: 20px;
+    margin-bottom: 0px;
+}
+#heading h2 span{
+    color:#ff3d00;
+}
+#heading{
+    color: white;
+}
+a:hover{
+    background-color: #ff3d00;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+figure{
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
+footer{
+    background-color: #263238;
+    padding: 10px;
+    color: white;
+}
+#salesChart img{
+    width: 100%;
+    height: 100%;
+}
+

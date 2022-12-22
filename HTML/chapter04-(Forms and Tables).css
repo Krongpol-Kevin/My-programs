@@ -1,0 +1,107 @@
+body
+{
+    background-color: #E8EAF6;
+    font-family: 'Times New Roman', serif;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+nav
+{
+    background-color: #3F51B5;
+    padding: 15px;
+}
+#Header, footer
+{
+    background-color: #1a237e;
+    color: #ffffff;
+    padding: 10px;
+    font-family: 'Gill Sans MT', sans-serif;
+
+    
+}
+#desc:hover, #RelPhotos:hover, #review:hover, #home:hover, #browse:hover, #search:hover
+{
+    color: #00B0FF;
+    background-color: #f500f5;
+}
+h3
+{
+    background-color: #7986CB;
+    font-family: 'Gill Sans MT', sans-serif;
+    color: #ffffff;
+    padding: 10px;
+}
+
+article{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;  
+}
+section
+{
+    padding: 1px;
+}
+figcaption
+{
+    background-color: #c5cae9;
+    padding: 10px;
+    margin-top: 0%;
+}
+time{
+    color: #ff80ab;
+}
+.credit{
+    color: #3F51B5;
+    font: italic;
+}
+
+
+
+
+
+
+
+form{
+    background-color: #1a237e;
+}
+p[id="Title"]
+{
+    padding: 10px;
+    margin: 0;
+    color: white;
+}
+.copyright, .common, .Date, .time{
+    border: solid;
+    margin: 10px;
+    padding:10px;
+}
+#softwareLicense{
+    background-color: #c5cae9;
+    width: 100%;
+    padding: 10px;
+}
+table{
+    background-color: #7986CB;
+    width: 100%;
+}
+input[id="Description"]{
+    height: 100px;
+}
+th input[type="Text"], select{
+    width: 100%;
+    background-color: lightgray;
+}
+input[type="submit"], input[type="button"]{
+    background-color: #e91e63;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    margin: 5px;
+}
+.button{
+    background-color: #9fa8da;
+    width: 100%;
+}
+
